@@ -1,4 +1,4 @@
-# InterIntel-Assignment
+# Implementation Engineer Interview Questions Response
 ## SECTION B QUESTION 1
 #### under views.py where functionalities and HttpResponse is used to enable render on a page
 ```
